@@ -8,16 +8,16 @@ In this project we will work with a fake advertising data set, indicating whethe
 
 
 Classification Report 
- *********************
+*********************
 
-               precision    recall  f1-score   support
+                    precision    recall  f1-score   support
 
-           0       0.91      0.95      0.93       157
-           1       0.94      0.90      0.92       143
+               0       0.91      0.95      0.93       157
+               1       0.94      0.90      0.92       143
 
-    accuracy                           0.93       300
-   macro avg       0.93      0.93      0.93       300
-weighted avg       0.93      0.93      0.93       300
+        accuracy                           0.93       300 
+       macro avg       0.93      0.93      0.93       300
+    weighted avg       0.93      0.93      0.93       300
 
 
 ____________________________________________________________

@@ -16,6 +16,5 @@ In this project we will work with a fake advertising data set, indicating whethe
 
     accuracy                           0.93       300
    macro avg       0.93      0.93      0.93       300
-weighted avg       0.93      0.93      0.93       300
+weighted avg       0.93      0.93      0.93       300`
 
-*******************************************************`
